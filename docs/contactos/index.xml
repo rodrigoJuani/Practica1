@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactos on Mi Portafolio Personal Ledezma</title>
+    <link>https://ledezma07.github.io/vistaportafoliouno/contactos/</link>
+    <description>Recent content in Contactos on Mi Portafolio Personal Ledezma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 11:44:54 -0400</lastBuildDate>
+    <atom:link href="https://ledezma07.github.io/vistaportafoliouno/contactos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto2</title>
+      <link>https://ledezma07.github.io/vistaportafoliouno/contactos/contacto2/</link>
+      <pubDate>Sun, 08 Sep 2024 11:44:54 -0400</pubDate>
+      <guid>https://ledezma07.github.io/vistaportafoliouno/contactos/contacto2/</guid>
+      <description>&lt;p&gt;ilt in 242 ms&#xA;Environment: &amp;ldquo;development&amp;rdquo;&#xA;Serving pages from disk&#xA;Running in Fast Render Mode. For full rebuilds on change: hugo server &amp;ndash;disableFastRender&#xA;Web Server is available at http://localhost:54474/ (bind address 127.0.0.1)&#xA;Press Ctrl+C to stop&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redessociales</title>
+      <link>https://ledezma07.github.io/vistaportafoliouno/contactos/redessociales/</link>
+      <pubDate>Sat, 07 Sep 2024 14:44:12 -0400</pubDate>
+      <guid>https://ledezma07.github.io/vistaportafoliouno/contactos/redessociales/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;Nuestras redes sociales&#xA;    Contactanso por Facebook&#xA;    Wsp&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Contacto1</title>
+      <link>https://ledezma07.github.io/vistaportafoliouno/contactos/contacto1/</link>
+      <pubDate>Sat, 07 Sep 2024 01:21:58 -0400</pubDate>
+      <guid>https://ledezma07.github.io/vistaportafoliouno/contactos/contacto1/</guid>
+      <description>&lt;p&gt;este es mi primer contactohu&#xA;Numero de Celular: 70432525 &lt;!-- raw HTML omitted --&gt;&#xA;Ciudad: Oruro - Bolivia&#xA;Estudios realizados: Facultad NAcional de Ingenieria&#xA;Carrera: Ingenieria de Sistemas&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

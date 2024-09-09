@@ -1,0 +1,32 @@
+baseURL = 'https://ledezma07.github.io/vistaportafoliouno/'
+languageCode = 'en-us'
+title = 'Mi Portafolio Personal Ledezma'
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+[menu]
+[[menu.main]]
+  identifier="contactos"
+  name="Contacto"
+  title="contacto"
+  url = "/contactos/"
+  weight=0
+[[menu.main]]
+  identifier="contacto"
+  name="Contacto"
+  title="redes"
+  url = "/contactos/"
+  weight=0
+[[menu.main]]
+  identifier="post"
+  name="post"
+  title="COMENTARIOS"
+  url = "/post/"
+  weight=0
+[[menu.main]]
+  identifier="acercade"
+  name="acercade"
+  title="ACERCA DE"
+  url = "/acercade/"
+  weight=0
