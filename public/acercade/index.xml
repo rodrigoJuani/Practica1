@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acercades on Mi Portafolio Personal Ledezma</title>
-    <link>https://ledezma07.github.io/vistaportafoliouno/acercade/</link>
+    <link>http://localhost:1313/miportafolio2/acercade/</link>
     <description>Recent content in Acercades on Mi Portafolio Personal Ledezma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2024 11:42:41 -0400</lastBuildDate>
-    <atom:link href="https://ledezma07.github.io/vistaportafoliouno/acercade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/miportafolio2/acercade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acercadelmundo</title>
-      <link>https://ledezma07.github.io/vistaportafoliouno/acercade/acercadelmundo/</link>
+      <link>http://localhost:1313/miportafolio2/acercade/acercadelmundo/</link>
       <pubDate>Sun, 08 Sep 2024 11:42:41 -0400</pubDate>
-      <guid>https://ledezma07.github.io/vistaportafoliouno/acercade/acercadelmundo/</guid>
+      <guid>http://localhost:1313/miportafolio2/acercade/acercadelmundo/</guid>
       <description>&lt;p&gt;Change of config file detected, rebuilding site (#2).&#xA;2024-09-08 11:41:39.447 -0400&#xA;WARN  calling IsSet with unsupported type &amp;ldquo;ptr&amp;rdquo; (*page.siteWrapper) will always return false.&#xA;WARN  calling IsSet with unsupported type &amp;ldquo;invalid&amp;rdquo; (&lt;!-- raw HTML omitted --&gt;) will always return false.&#xA;Web Server is available at http://localhost:54327/ (bind address 127.0.0.1)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Acercadelcreador</title>
-      <link>https://ledezma07.github.io/vistaportafoliouno/acercade/acercadelcreador/</link>
+      <link>http://localhost:1313/miportafolio2/acercade/acercadelcreador/</link>
       <pubDate>Sun, 08 Sep 2024 11:38:21 -0400</pubDate>
-      <guid>https://ledezma07.github.io/vistaportafoliouno/acercade/acercadelcreador/</guid>
+      <guid>http://localhost:1313/miportafolio2/acercade/acercadelcreador/</guid>
       <description>&lt;p&gt;En este artículo aprenderás a cambiar el diseño un sitio web realizado con Hugo, el generador de sitios estáticos, y personalizar un tema para adaptarlo a tus necesidades, alterando HTML, CSS, imágenes, iconos&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
